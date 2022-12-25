@@ -3,3 +3,11 @@
   padding: 0;
   max-width: 1440px;
 }/*# sourceMappingURL=global.css.map */
+
+
+.container {
+  padding: 0 15px;
+  margin: 0 auto;
+  max-width: 1200px;
+}
+

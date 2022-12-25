@@ -1,0 +1,43 @@
+
+nav .navbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+nav .navbar div {
+  display: flex;
+  justify-content: space-between;
+}
+
+nav .navbar div ul {
+  display: flex;
+  justify-content: space-around;
+}
+
+nav .navbar div ul li {
+  list-style-type: none;
+}
+
+nav .navbar div ul li img {
+  width: 20px;
+  height: 20px;
+} /*# sourceMappingURL=main.css.map */
+nav .navbar {
+  display: flex;
+  justify-content: space-between;
+}
+nav .navbar div {
+  display: flex;
+  justify-content: space-between;
+}
+nav .navbar div ul {
+  display: flex;
+  justify-content: space-around;
+}
+nav .navbar div ul li {
+  list-style-type: none;
+}
+nav .navbar div ul li img {
+  width: 20px;
+  height: 20px;
+}/*# sourceMappingURL=main.css.map */
