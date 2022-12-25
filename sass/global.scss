@@ -1,9 +1,8 @@
-@use 'layout/navbar';
-@use 'layout/footer';
+@use "layout/navbar";
+@use "layout/footer";
 
-
-*{
-    margin: 0 auto;
-    padding: 0;
-    max-width: 1440px;
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
 }
